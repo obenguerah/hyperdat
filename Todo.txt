@@ -1,0 +1,6 @@
+full cue mgmt
+Keep last used parameters
+No work dir?
+Use missing as a source (plus merge from multi tosec+redump)
+Ne pas essayer de déplacer les fichier cachés (Thumbs.db) : reprise sur err?
+Move to unknown est different en terme de Lower / Upper Case
